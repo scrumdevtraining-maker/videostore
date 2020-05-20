@@ -1,3 +1,5 @@
 .DS_Store
 typescript/node_modules/
-*.js
+typescript/**/*.js
+csharp/video-store/**/obj/
+csharp/video-store/**/bin/
