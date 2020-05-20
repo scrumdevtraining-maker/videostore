@@ -1,0 +1,8 @@
+/Users/christophe/Développements/workspace/scrumdev/VideoStore/csharp/video-store/VideoStore/bin/Debug/netstandard2.0/VideoStore.deps.json
+/Users/christophe/Développements/workspace/scrumdev/VideoStore/csharp/video-store/VideoStore/bin/Debug/netstandard2.0/VideoStore.dll
+/Users/christophe/Développements/workspace/scrumdev/VideoStore/csharp/video-store/VideoStore/bin/Debug/netstandard2.0/VideoStore.pdb
+/Users/christophe/Développements/workspace/scrumdev/VideoStore/csharp/video-store/VideoStore/obj/Debug/netstandard2.0/VideoStore.csproj.CoreCompileInputs.cache
+/Users/christophe/Développements/workspace/scrumdev/VideoStore/csharp/video-store/VideoStore/obj/Debug/netstandard2.0/VideoStore.AssemblyInfoInputs.cache
+/Users/christophe/Développements/workspace/scrumdev/VideoStore/csharp/video-store/VideoStore/obj/Debug/netstandard2.0/VideoStore.AssemblyInfo.cs
+/Users/christophe/Développements/workspace/scrumdev/VideoStore/csharp/video-store/VideoStore/obj/Debug/netstandard2.0/VideoStore.dll
+/Users/christophe/Développements/workspace/scrumdev/VideoStore/csharp/video-store/VideoStore/obj/Debug/netstandard2.0/VideoStore.pdb
