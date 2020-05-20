@@ -18,7 +18,7 @@ export class Customer {
         for (let each of this._rentals) {
             let thisAmount = 0;
 
-            // dtermines the amount for each line
+            // determines the amount for each line
             switch (each.movie.priceCode) {
                 case Movie.REGULAR:
                     thisAmount += 2;
