@@ -1,3 +1,6 @@
+.vscode/
+lcov.info
+
 .DS_Store
 typescript/node_modules/
 typescript/**/*.js
